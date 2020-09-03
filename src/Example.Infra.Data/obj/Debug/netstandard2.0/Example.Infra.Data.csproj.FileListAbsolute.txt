@@ -1,0 +1,12 @@
+C:\Users\aljunior2\source\repos\CleanArchitectureExample\Web API\Example.Infra.Data\obj\Debug\netstandard2.0\Example.Infra.Data.csprojAssemblyReference.cache
+C:\Users\aljunior2\source\repos\CleanArchitectureExample\Web API\Example.Infra.Data\obj\Debug\netstandard2.0\Example.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\aljunior2\source\repos\CleanArchitectureExample\Web API\Example.Infra.Data\obj\Debug\netstandard2.0\Example.Infra.Data.AssemblyInfo.cs
+C:\Users\aljunior2\source\repos\CleanArchitectureExample\Web API\Example.Infra.Data\obj\Debug\netstandard2.0\Example.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\aljunior2\source\repos\CleanArchitectureExample\Web API\Example.Infra.Data\bin\Debug\netstandard2.0\Example.Infra.Data.deps.json
+C:\Users\aljunior2\source\repos\CleanArchitectureExample\Web API\Example.Infra.Data\bin\Debug\netstandard2.0\Example.Infra.Data.dll
+C:\Users\aljunior2\source\repos\CleanArchitectureExample\Web API\Example.Infra.Data\bin\Debug\netstandard2.0\Example.Domain.dll
+C:\Users\aljunior2\source\repos\CleanArchitectureExample\Web API\Example.Infra.Data\bin\Debug\netstandard2.0\Example.Domain.pdb
+C:\Users\aljunior2\source\repos\CleanArchitectureExample\Web API\Example.Infra.Data\obj\Debug\netstandard2.0\Example.Infra.Data.csproj.CopyComplete
+C:\Users\aljunior2\source\repos\CleanArchitectureExample\Web API\Example.Infra.Data\bin\Debug\netstandard2.0\Example.Infra.Data.pdb
+C:\Users\aljunior2\source\repos\CleanArchitectureExample\Web API\Example.Infra.Data\obj\Debug\netstandard2.0\Example.Infra.Data.dll
+C:\Users\aljunior2\source\repos\CleanArchitectureExample\Web API\Example.Infra.Data\obj\Debug\netstandard2.0\Example.Infra.Data.pdb

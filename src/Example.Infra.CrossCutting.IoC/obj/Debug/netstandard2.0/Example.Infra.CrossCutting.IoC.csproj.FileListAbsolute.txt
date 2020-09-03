@@ -1,0 +1,16 @@
+C:\Users\aljunior2\source\repos\CleanArchitectureExample\Web API\Example.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\Example.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\Users\aljunior2\source\repos\CleanArchitectureExample\Web API\Example.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\Example.Infra.CrossCutting.IoC.AssemblyInfo.cs
+C:\Users\aljunior2\source\repos\CleanArchitectureExample\Web API\Example.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\Example.Infra.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+C:\Users\aljunior2\source\repos\CleanArchitectureExample\Web API\Example.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\Example.Infra.CrossCutting.IoC.deps.json
+C:\Users\aljunior2\source\repos\CleanArchitectureExample\Web API\Example.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\Example.Infra.CrossCutting.IoC.dll
+C:\Users\aljunior2\source\repos\CleanArchitectureExample\Web API\Example.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\Example.Infra.CrossCutting.IoC.pdb
+C:\Users\aljunior2\source\repos\CleanArchitectureExample\Web API\Example.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\Example.Application.dll
+C:\Users\aljunior2\source\repos\CleanArchitectureExample\Web API\Example.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\Example.Domain.dll
+C:\Users\aljunior2\source\repos\CleanArchitectureExample\Web API\Example.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\Example.Application.pdb
+C:\Users\aljunior2\source\repos\CleanArchitectureExample\Web API\Example.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\Example.Domain.pdb
+C:\Users\aljunior2\source\repos\CleanArchitectureExample\Web API\Example.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\Example.Infra.CrossCutting.IoC.csprojAssemblyReference.cache
+C:\Users\aljunior2\source\repos\CleanArchitectureExample\Web API\Example.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\Example.Infra.CrossCutting.IoC.csproj.CopyComplete
+C:\Users\aljunior2\source\repos\CleanArchitectureExample\Web API\Example.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\Example.Infra.CrossCutting.IoC.dll
+C:\Users\aljunior2\source\repos\CleanArchitectureExample\Web API\Example.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\Example.Infra.CrossCutting.IoC.pdb
+C:\Users\aljunior2\source\repos\CleanArchitectureExample\Web API\Example.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\Example.Infra.Data.dll
+C:\Users\aljunior2\source\repos\CleanArchitectureExample\Web API\Example.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\Example.Infra.Data.pdb
