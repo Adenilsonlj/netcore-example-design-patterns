@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aljunior2\\source\\repos\\CleanArchitectureExample\\Web API\\Example.Domain\\Example.Domain.csproj": {}
+    "C:\\Users\\adeni\\source\\repos\\netcore-example-design-patterns\\src\\Example.Domain\\Example.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aljunior2\\source\\repos\\CleanArchitectureExample\\Web API\\Example.Domain\\Example.Domain.csproj": {
+    "C:\\Users\\adeni\\source\\repos\\netcore-example-design-patterns\\src\\Example.Domain\\Example.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aljunior2\\source\\repos\\CleanArchitectureExample\\Web API\\Example.Domain\\Example.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\adeni\\source\\repos\\netcore-example-design-patterns\\src\\Example.Domain\\Example.Domain.csproj",
         "projectName": "Example.Domain",
-        "projectPath": "C:\\Users\\aljunior2\\source\\repos\\CleanArchitectureExample\\Web API\\Example.Domain\\Example.Domain.csproj",
-        "packagesPath": "C:\\Users\\aljunior2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aljunior2\\source\\repos\\CleanArchitectureExample\\Web API\\Example.Domain\\obj\\",
+        "projectPath": "C:\\Users\\adeni\\source\\repos\\netcore-example-design-patterns\\src\\Example.Domain\\Example.Domain.csproj",
+        "packagesPath": "C:\\Users\\adeni\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\adeni\\source\\repos\\netcore-example-design-patterns\\src\\Example.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\aljunior2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\adeni\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -66,7 +63,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

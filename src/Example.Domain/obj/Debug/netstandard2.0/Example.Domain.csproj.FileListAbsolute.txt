@@ -7,3 +7,12 @@ C:\Users\aljunior2\source\repos\CleanArchitectureExample\Web API\Example.Domain\
 C:\Users\aljunior2\source\repos\CleanArchitectureExample\Web API\Example.Domain\obj\Debug\netstandard2.0\Example.Domain.dll
 C:\Users\aljunior2\source\repos\CleanArchitectureExample\Web API\Example.Domain\obj\Debug\netstandard2.0\Example.Domain.pdb
 C:\Users\aljunior2\source\repos\CleanArchitectureExample\Web API\Example.Domain\obj\Debug\netstandard2.0\Example.Domain.csprojAssemblyReference.cache
+C:\Users\adeni\Downloads\netcore-example-design-patterns-master\src\Example.Domain\bin\Debug\netstandard2.0\Example.Domain.deps.json
+C:\Users\adeni\Downloads\netcore-example-design-patterns-master\src\Example.Domain\bin\Debug\netstandard2.0\Example.Domain.dll
+C:\Users\adeni\Downloads\netcore-example-design-patterns-master\src\Example.Domain\bin\Debug\netstandard2.0\Example.Domain.pdb
+C:\Users\adeni\Downloads\netcore-example-design-patterns-master\src\Example.Domain\obj\Debug\netstandard2.0\Example.Domain.csprojAssemblyReference.cache
+C:\Users\adeni\Downloads\netcore-example-design-patterns-master\src\Example.Domain\obj\Debug\netstandard2.0\Example.Domain.AssemblyInfoInputs.cache
+C:\Users\adeni\Downloads\netcore-example-design-patterns-master\src\Example.Domain\obj\Debug\netstandard2.0\Example.Domain.AssemblyInfo.cs
+C:\Users\adeni\Downloads\netcore-example-design-patterns-master\src\Example.Domain\obj\Debug\netstandard2.0\Example.Domain.csproj.CoreCompileInputs.cache
+C:\Users\adeni\Downloads\netcore-example-design-patterns-master\src\Example.Domain\obj\Debug\netstandard2.0\Example.Domain.dll
+C:\Users\adeni\Downloads\netcore-example-design-patterns-master\src\Example.Domain\obj\Debug\netstandard2.0\Example.Domain.pdb

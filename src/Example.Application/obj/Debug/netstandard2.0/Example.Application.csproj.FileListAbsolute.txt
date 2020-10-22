@@ -10,3 +10,15 @@ C:\Users\aljunior2\source\repos\CleanArchitectureExample\Web API\Example.Applica
 C:\Users\aljunior2\source\repos\CleanArchitectureExample\Web API\Example.Application\obj\Debug\netstandard2.0\Example.Application.dll
 C:\Users\aljunior2\source\repos\CleanArchitectureExample\Web API\Example.Application\obj\Debug\netstandard2.0\Example.Application.pdb
 C:\Users\aljunior2\source\repos\CleanArchitectureExample\Web API\Example.Application\obj\Debug\netstandard2.0\Example.Application.csproj.CoreCompileInputs.cache
+C:\Users\adeni\Downloads\netcore-example-design-patterns-master\src\Example.Application\bin\Debug\netstandard2.0\Example.Application.deps.json
+C:\Users\adeni\Downloads\netcore-example-design-patterns-master\src\Example.Application\bin\Debug\netstandard2.0\Example.Application.dll
+C:\Users\adeni\Downloads\netcore-example-design-patterns-master\src\Example.Application\bin\Debug\netstandard2.0\Example.Application.pdb
+C:\Users\adeni\Downloads\netcore-example-design-patterns-master\src\Example.Application\bin\Debug\netstandard2.0\Example.Domain.dll
+C:\Users\adeni\Downloads\netcore-example-design-patterns-master\src\Example.Application\bin\Debug\netstandard2.0\Example.Domain.pdb
+C:\Users\adeni\Downloads\netcore-example-design-patterns-master\src\Example.Application\obj\Debug\netstandard2.0\Example.Application.csprojAssemblyReference.cache
+C:\Users\adeni\Downloads\netcore-example-design-patterns-master\src\Example.Application\obj\Debug\netstandard2.0\Example.Application.AssemblyInfoInputs.cache
+C:\Users\adeni\Downloads\netcore-example-design-patterns-master\src\Example.Application\obj\Debug\netstandard2.0\Example.Application.AssemblyInfo.cs
+C:\Users\adeni\Downloads\netcore-example-design-patterns-master\src\Example.Application\obj\Debug\netstandard2.0\Example.Application.csproj.CoreCompileInputs.cache
+C:\Users\adeni\Downloads\netcore-example-design-patterns-master\src\Example.Application\obj\Debug\netstandard2.0\Example.Application.csproj.CopyComplete
+C:\Users\adeni\Downloads\netcore-example-design-patterns-master\src\Example.Application\obj\Debug\netstandard2.0\Example.Application.dll
+C:\Users\adeni\Downloads\netcore-example-design-patterns-master\src\Example.Application\obj\Debug\netstandard2.0\Example.Application.pdb
