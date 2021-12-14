@@ -37,8 +37,6 @@ namespace Example.API
                 switch (_notification.Notifications.LastOrDefault().NotificationType)
                 {
                     case ENotificationType.InternalServerError:
-                        //TODO montar o log
-                        //Log.Logger.BaseResponse(response);
                         return StatusCode((int)HttpStatusCode.InternalServerError, response);
                     case ENotificationType.BusinessRules:
                         return Conflict(response);

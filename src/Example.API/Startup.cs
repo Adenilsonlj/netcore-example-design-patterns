@@ -15,6 +15,7 @@ using Example.Infra.Data;
 using Microsoft.EntityFrameworkCore;
 using Swashbuckle.Swagger;
 using Microsoft.ApplicationInsights.Extensibility;
+using Microsoft.AspNetCore.HttpLogging;
 
 namespace Example.API
 {
@@ -37,21 +38,12 @@ namespace Example.API
             {
                 var connection = new DbContextOptionsBuilder<ExampleContext>();
 
-                //TODO: gerar log para development
-                //if (IsDevelopment)
-                //{
-                //    connection.UseLoggerFactory(LoggerFactory);
-                //}
 
                 return new UnitOfWork(
                     new ExampleContext(
                         connection
                         .UseLazyLoadingProxies()
-                        .UseSqlServer(connectionString, builder =>
-                        {
-                            //TODO: está obsleto, ver nova opção
-                            //builder.UseRowNumberForPaging();
-                        }).Options));
+                        .UseSqlServer(connectionString, builder => { }).Options));
             });
 
             NativeInjector.Setup(services);
@@ -73,12 +65,12 @@ namespace Example.API
                     new Microsoft.OpenApi.Models.OpenApiInfo
                     {
 
-                        Title = "Raízen - CSCustomer",
+                        Title = "Projeto de teste",
                         Version = "v1",
                         Description = "API responsável por informações do usuário",
                         Contact = new Microsoft.OpenApi.Models.OpenApiContact
                         {
-                            Name = "Raízen CSOnline",
+                            Name = "Projeto de teste",
                         }
                     });
             });
@@ -86,6 +78,16 @@ namespace Example.API
             services.AddApplicationInsightsTelemetry(new Microsoft.ApplicationInsights.AspNetCore.Extensions.ApplicationInsightsServiceOptions()
             {
                 EnableAdaptiveSampling = false
+            });
+
+            services.AddHttpLogging(logging =>
+            {
+                logging.LoggingFields = HttpLoggingFields.All;
+                logging.RequestHeaders.Add("My-Request-Header");
+                logging.ResponseHeaders.Add("My-Response-Header");
+                logging.MediaTypeOptions.AddText("application/javascript");
+                logging.RequestBodyLogLimit = 4096;
+                logging.ResponseBodyLogLimit = 4096;
             });
         }
 
@@ -119,7 +121,7 @@ namespace Example.API
 
             app.UseSwaggerUI(c =>
             {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Raízen - CSCustomer V1");
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Projeto de teste");
             });
         }
     }
